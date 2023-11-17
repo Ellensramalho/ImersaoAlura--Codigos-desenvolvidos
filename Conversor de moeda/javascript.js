@@ -1,4 +1,4 @@
-var valorEmEthereum = 40;
+var valorEmEthereum = 64;
 var cotacaoDoEthereum = 9.516;
 var nome = "Ellen";
 var valorEmReal = valorEmEthereum * cotacaoDoEthereum;
